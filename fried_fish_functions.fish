@@ -61,3 +61,8 @@ function fish_greeting
   fish_logo
 end
 funcsave fish_greeting
+
+function repackage_branch
+        bash ~/Space/wspace/rx-saver/tools/refresh.sh
+end
+funcsave repackage_branch
